@@ -13,3 +13,5 @@ Tarea #1 - Creacion de repositorio en Github.
   ![image](https://github.com/user-attachments/assets/4d7f92c6-5f78-44aa-8748-9ac47078434d)
 
 - Click on button "Create repository".
+
+![image](https://github.com/user-attachments/assets/e369f367-bf3e-4cb6-8beb-b0d348df9e6e)
