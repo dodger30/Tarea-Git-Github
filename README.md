@@ -14,4 +14,6 @@ Tarea #1 - Creacion de repositorio en Github.
 
 - Click on button "Create repository".
 
-![image](https://github.com/user-attachments/assets/e369f367-bf3e-4cb6-8beb-b0d348df9e6e)
+  ![image](https://github.com/user-attachments/assets/e369f367-bf3e-4cb6-8beb-b0d348df9e6e)
+
+## 2. Connect to Github using SSH
