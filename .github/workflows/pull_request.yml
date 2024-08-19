@@ -1,0 +1,23 @@
+name: Print Environment Variable and Secret
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+
+jobs:
+  print-messages:
+    runs-on: ubuntu-latest
+    env:
+      MY_ENV_VAR: "This is my environment variable"
+    steps:
+      - name: Print Environment Variable
+        run: echo "Environment Variable: $MY_ENV_VAR"
+
+      - name: Print Secret
+        run: echo "Secret: $MY_SECRET"
+        env:
+          MY_SECRET: ${{ secrets.MY_SECRET }}
+
