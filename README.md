@@ -72,16 +72,7 @@ Tarea #1 - Creacion de repositorio en Github.
 
 ## 5. Link Local Repository to Github Repository
 
-   * Add the GitHub repository as a remote using SSH
+   * Push the changes to the Remote Repository
      
-     ![image](https://github.com/user-attachments/assets/da819582-41db-4725-8483-86c506ffe430)
-  
-   * Check the Git Remote
-     
-     ![image](https://github.com/user-attachments/assets/5abbcce7-3d84-4596-a897-946e21891abb)
+     ![image](https://github.com/user-attachments/assets/1a89bc9f-b62a-484c-8a4d-894237ab29d5)
 
-   * Push Local Changes to GitHub  
-     
-  
-   
-   * 
