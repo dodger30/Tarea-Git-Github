@@ -23,9 +23,11 @@ Tarea #1 - Creacion de repositorio en Github.
     ![image](https://github.com/user-attachments/assets/88bc3b57-c045-4b4f-aa12-7ece4922ba3c)
     
   * Check the created key:
+    
     ![image](https://github.com/user-attachments/assets/5692c2e1-54b9-42ca-9f37-4f25457fd9ea)
     
   * Copy the SSH Key
+    
     ![image](https://github.com/user-attachments/assets/bb54d1cd-d7e0-4646-8e92-c21b4f094938)
 
 ## 3. Add the SSH Key to Github
