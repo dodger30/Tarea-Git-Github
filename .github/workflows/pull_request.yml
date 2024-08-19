@@ -20,4 +20,3 @@ jobs:
         run: "echo Secret: $MY_SECRET"
         env:
           MY_SECRET: ${{ secrets.MY_SECRET }}
-
