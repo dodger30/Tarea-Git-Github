@@ -14,10 +14,10 @@ jobs:
       MY_ENV_VAR: "This is my environment variable"
     steps:
       - name: Print Environment Variable
-        run: echo "Environment Variable: $MY_ENV_VAR"
+        run: "echo Environment Variable: $MY_ENV_VAR"
 
       - name: Print Secret
-        run: echo "Secret: $MY_SECRET"
+        run: "echo Secret: $MY_SECRET"
         env:
           MY_SECRET: ${{ secrets.MY_SECRET }}
 
