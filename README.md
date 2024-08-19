@@ -70,6 +70,42 @@ Tarea #1 - Creacion de repositorio en Github.
      
      ![image](https://github.com/user-attachments/assets/b26154c7-491e-4530-b9d5-bba4de34c100)
 
+## 6. Create the GitHub Action Workflow
+
+     * In the local repository, create a directory named .github/workflows if it doesn't already exist.
+     
+     * Inside the workflows directory, create a file named pull_request.yml.
+
+     * Edit "pull_request.yml" file and add code to the workflow
+
+     ![image](https://github.com/user-attachments/assets/452b249e-b277-4fcc-947e-af86f3997066)     
+
+     * Go to Github repository and click on Settings
+
+     ![image](https://github.com/user-attachments/assets/ff14735b-96bd-427c-bc79-6ea64c9299a2)
+
+     * Scroll down to Secrets and variables, Select "Actions"
+
+     ![image](https://github.com/user-attachments/assets/33950241-2f95-4308-aadd-93722a4087bc)
+
+     * Click on New Repository Secret Button
+
+     ![image](https://github.com/user-attachments/assets/51e2c327-f498-4267-84e3-a96991cb7fba)
+     
+     * Name the secret MY_SECRET and set its value
+
+     ![image](https://github.com/user-attachments/assets/fa1038e2-36e8-441c-a500-5f6df35f8a24)
+
+     * Click Add secret.
+
+
+     
+
+
+
+     
+
+
 ## 5. Link Local Repository to Github Repository
 
    * Push the changes to the Remote Repository
